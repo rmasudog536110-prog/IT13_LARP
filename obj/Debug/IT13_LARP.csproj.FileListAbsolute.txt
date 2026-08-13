@@ -9,3 +9,14 @@ C:\final_project\IT13_LARP\bin\Debug\IT13_LARP.pdb
 C:\final_project\IT13_LARP\obj\Debug\IT13_LARP.exe
 C:\final_project\IT13_LARP\obj\Debug\IT13_LARP.pdb
 C:\final_project\IT13_LARP\obj\Debug\IT13_LARP.Form2.resources
+C:\Users\Student\source\repos\IT13_LARP\bin\Debug\IT13_LARP.exe.config
+C:\Users\Student\source\repos\IT13_LARP\bin\Debug\IT13_LARP.exe
+C:\Users\Student\source\repos\IT13_LARP\bin\Debug\IT13_LARP.pdb
+C:\Users\Student\source\repos\IT13_LARP\obj\Debug\IT13_LARP.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\IT13_LARP\obj\Debug\IT13_LARP.Form1.resources
+C:\Users\Student\source\repos\IT13_LARP\obj\Debug\IT13_LARP.Form2.resources
+C:\Users\Student\source\repos\IT13_LARP\obj\Debug\IT13_LARP.Properties.Resources.resources
+C:\Users\Student\source\repos\IT13_LARP\obj\Debug\IT13_LARP.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\IT13_LARP\obj\Debug\IT13_LARP.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\IT13_LARP\obj\Debug\IT13_LARP.exe
+C:\Users\Student\source\repos\IT13_LARP\obj\Debug\IT13_LARP.pdb
